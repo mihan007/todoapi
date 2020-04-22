@@ -3,4 +3,10 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="684bc23c-72dc-4aa6-9a74-d2594d0ae72a" />
   </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
 </project>
